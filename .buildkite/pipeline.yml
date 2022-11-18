@@ -10,6 +10,6 @@ steps:
             - version: "1.12"
               goos: darwin
               goarch: amd64
-            - version: "1.17"
+            - version: "1.19"
               goos: darwin
               goarch: arm64
