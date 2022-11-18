@@ -14,4 +14,4 @@ steps:
             - version: "1.12"
               goos: darwin
               goarch: arm64
-              gomodule:"on"
+              gomodule: "on"
